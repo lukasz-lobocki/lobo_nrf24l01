@@ -2,7 +2,14 @@
 
 
 
-## v0.1.0 (2023-07-27)
+## v0.2.3 (2023-07-27)
+
+### Fix
+
+* fix: Manual version bump. ([`5b80487`](https://github.com/lukasz-lobocki/lobo_nrf24l01/commit/5b804878d29f4e1a5505db910a6f923f1515b3db))
+
+
+## v0.2.2 (2023-07-27)
 
 ### Feature
 
