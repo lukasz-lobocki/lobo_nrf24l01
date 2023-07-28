@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lobo_nrf24l01"
-version = "0.2.3"
+version = "0.2.4"
 description = "Driver for nrf24l01."
 authors = ["Lukasz Lobocki"]
 license = "CC0 v1.0 Universal"

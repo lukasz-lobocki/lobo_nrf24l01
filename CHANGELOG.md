@@ -2,6 +2,13 @@
 
 
 
+## v0.2.4 (2023-07-28)
+
+### Fix
+
+* fix: change ([`294c7d5`](https://github.com/lukasz-lobocki/lobo_nrf24l01/commit/294c7d5fb796856c43fc5e24d63ee2eea59b9713))
+
+
 ## v0.2.3 (2023-07-27)
 
 ### Fix
